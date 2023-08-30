@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2005: "int __cdecl icp(char)" (?icp@@YAHD@Z) 已经在 calculate.obj 中定义
+main.obj : error LNK2005: "int __cdecl isp(char)" (?isp@@YAHD@Z) 已经在 calculate.obj 中定义
+C:\Users\ASUS\source\repos\简易计算器\x64\Debug\简易计算器.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
